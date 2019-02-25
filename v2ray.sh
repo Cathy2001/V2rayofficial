@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# This file is accessible as https://install.direct/go.sh
-# Original source is located at github.com/v2ray/v2ray-core/release/install-release.sh
+# This file is accessible as https://raw.githubusercontent.com/ComeBey/V2rayofficial/master/v2ray.sh
 
 # If not specify, default meaning of return value:
 # 0: Success
